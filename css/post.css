@@ -1,0 +1,16 @@
+div.post{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 29px;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    line-height: 45px;
+    font-family: 'Comfortaa', cursive;
+    color: rgb(24, 24, 83);
+}
+iframe.anketa{
+    padding-left: 200px;
+   
+}
